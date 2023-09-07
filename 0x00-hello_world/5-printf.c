@@ -7,9 +7,8 @@
 *
 * Return: Always 0 (Success)
 */
-
 int main(void)
-{	
-printf("with proper gramar, but the outcone is a piece of art, in"):
-return (0):
+{
+printf("with proper gramar, but the outcone is a piece of art, in");
+return (0);
 }
