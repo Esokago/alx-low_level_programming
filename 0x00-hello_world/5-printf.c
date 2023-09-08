@@ -3,12 +3,12 @@
 /**
 *main - Entry point
 *
-*Description: A C progan that prints with print function.
+*Description: A C progam that prints with print function.
 *
 * Return: Always 0 (Success)
 */
 int main(void)
 {
-printf("with proper gramar, but the outcone is a piece of art, in");
+printf("with proper gramar, but the outcome is a piece of art,\n");
 return (0);
 }
