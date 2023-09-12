@@ -3,16 +3,13 @@
 /**
  * main - Entry point
  *
- *Description: print _putchar using putchar prototype
- *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-int str[] = "_putchar";
-int ch;
-
-for (ch = 0; ch < 8; ch++)
+int str[] = {95, 112, 117, 116, 99, 104, 97, 114};
+int i;
+for (i = 0; i < 8; i++)
 {
 _putchar(str[i]);
 }
