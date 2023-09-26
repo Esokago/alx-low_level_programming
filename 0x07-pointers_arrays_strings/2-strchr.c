@@ -4,10 +4,10 @@
 *of the character c in the string s, or NULL if the
 *character is not found
 *
-*@s:target string 
-*@c:target character
+*@s:string targeted
+*@c:character targeted
 *
-*Return: return pointer to  occcurence of c
+*Return: returns pointer to first occcurence of c
 */
 char *_strchr(char *s, char c)
 {
