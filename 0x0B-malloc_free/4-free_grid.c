@@ -3,15 +3,16 @@
 /**
 * free_grid - frees a 2d array
 *@grid:memory block to be freed
-*@height:height of  array
-*Return:return void
+*@height:height the array
+*Return:returns of  void
+*
 */
 
 void free_grid(int **grid, int height)
 {
-	int index;
+	int i;
 
-	for (index = 0; index < height; index++)
+	for (i = 0; i < height; i++)
 		free(grid[i]);
 
 	free(grid);
