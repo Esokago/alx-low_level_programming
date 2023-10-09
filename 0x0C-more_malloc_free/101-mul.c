@@ -7,7 +7,7 @@
  * main - multiplies two positive numbers
  * @argc: n arguments
  * @argv: args
- * Return: int
+ * Return: void
 **/
 
 int main(int argc, char *argv[])
