@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * string_nconcat - Main Entry two strings 
+ * string_nconcat - Main Entry two strings
  * @s1: pointer to the first string
  * @s2: pointer to the second string
  * @n: number of the bytes
