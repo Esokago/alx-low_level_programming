@@ -3,9 +3,9 @@
 
 /**
  * array_range - array of integer
- * @min: starting int 
+ * @min: starting int
  * @max: max int
- * Return: array of integers 
+ * Return: array of integers
  */
 int *array_range(int min, int max)
 {
