@@ -3,6 +3,6 @@
 /**
  * File: 3-function_like_macro
  */
-#define ABS(X) ((X) < 0 ? -(1) * (X) : (X))
+#define ABS(X) ((X) < 0 ? (-(x)) * (X) : (X))
 
 #endif

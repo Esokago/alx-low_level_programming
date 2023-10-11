@@ -3,6 +3,6 @@
 /**
  * File: 4-sum
  */
-#define SUM(x, y) (x + y)
+#define SUM(x, y) ((x) + (y))
 
 #endif
